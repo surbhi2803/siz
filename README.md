@@ -277,12 +277,6 @@ We love contributions! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Flutter team** for the amazing framework
@@ -292,22 +286,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-Having issues? We're here to help!
-
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/Arrrzushi/siz/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/Arrrzushi/siz/discussions)
-- 💬 **Questions**: [Join our community](https://github.com/Arrrzushi/siz/discussions)
-
----
-
 <div align="center">
 
 **Made with ❤️ for roommates who deserve better**
-
-[![GitHub stars](https://img.shields.io/github/stars/Arrrzushi/siz?style=social)](https://github.com/Arrrzushi/siz/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Arrrzushi/siz?style=social)](https://github.com/Arrrzushi/siz/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Arrrzushi/siz)](https://github.com/Arrrzushi/siz/issues)
 
 </div>
