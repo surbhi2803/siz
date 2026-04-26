@@ -1,0 +1,48 @@
+name: siz
+description: A modern expense and todo sharing app for roommates
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  flutter_staggered_animations: ^1.1.1
+  flutter_animate: ^4.5.0
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  lottie: ^2.7.0
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.0
+  firebase_auth: ^4.17.0
+  firebase_storage: ^11.6.0
+  firebase_messaging: ^14.7.15
+  firebase_dynamic_links: ^5.4.17
+  uuid: ^4.2.1
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^3.5.0
+  share_plus: ^7.2.0
+  image_picker: ^1.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/logo.png
+    - assets/images/avatars.jpg
+  
+  fonts:
+    - family: Moliga
+      fonts:
+        - asset: assets/fonts/Moliga DEMO.otf

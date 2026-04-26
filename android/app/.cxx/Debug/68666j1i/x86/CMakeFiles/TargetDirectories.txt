@@ -1,0 +1,2 @@
+C:/Users/arush/Downloads/site/task1/android/app/.cxx/Debug/68666j1i/x86/CMakeFiles/edit_cache.dir
+C:/Users/arush/Downloads/site/task1/android/app/.cxx/Debug/68666j1i/x86/CMakeFiles/rebuild_cache.dir
